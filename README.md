@@ -1,2 +1,2 @@
 # Trabalho-Xandy
-## ->Eudardo Batista e Hugo Henrique
+## ->Eduardo Batista e Hugo Henrique
